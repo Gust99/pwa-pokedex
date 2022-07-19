@@ -1,0 +1,109 @@
+{
+  "configVersion": 1,
+  "timestamp": 1658181735421,
+  "index": "/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/195.56713e32f0f1a057.js",
+        "/202.361dfe6ee2d0705c.js",
+        "/343.e0e46529ee47472b.js",
+        "/382.ceadabfa0c8c7266.js",
+        "/585.2e5816a8b1be8acd.js",
+        "/811.f8abf5921bffd362.js",
+        "/favicon.ico",
+        "/index.html",
+        "/main.94b59bafef8a2fa8.js",
+        "/manifest.webmanifest",
+        "/polyfills.d5482168a709a704.js",
+        "/runtime.599414135deb3fc9.js",
+        "/scripts.d4c14b20253070bf.js",
+        "/styles.d93620bb15f25cce.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/assets/angles-left-solid.svg",
+        "/assets/icons/icon-128x128.png",
+        "/assets/icons/icon-144x144.png",
+        "/assets/icons/icon-152x152.png",
+        "/assets/icons/icon-192x192.png",
+        "/assets/icons/icon-384x384.png",
+        "/assets/icons/icon-512x512.png",
+        "/assets/icons/icon-72x72.png",
+        "/assets/icons/icon-96x96.png",
+        "/assets/pikachu2.png",
+        "/assets/pokeball.png",
+        "/assets/pokemon.png",
+        "/assets/poketitle.png",
+        "/assets/utils/types.ts",
+        "/assets/utils/utils.js"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/195.56713e32f0f1a057.js": "3f6101e281204a1df007b95cdcaee6ff10b37397",
+    "/202.361dfe6ee2d0705c.js": "63c7c4a5cb88b8dda0b5e02afa642ad8a182ab4e",
+    "/343.e0e46529ee47472b.js": "566e7a83070d589086a866233671f7db5337a222",
+    "/382.ceadabfa0c8c7266.js": "dfc84f8656fe0b12fbdd084855a8ab09a0319a60",
+    "/585.2e5816a8b1be8acd.js": "b9a318a4c31ad9503cdf6fdc064e35a19bc21040",
+    "/811.f8abf5921bffd362.js": "ae92361e492ae7445cc6b6059bdf0641b9fcabfb",
+    "/assets/angles-left-solid.svg": "baab37200bd5ddf1c3ced7bc001a221781699246",
+    "/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "/assets/pikachu2.png": "c1ee7f39a52bf162ac759194caaefca60ff94b06",
+    "/assets/pokeball.png": "9dd062124dbd0be078220a63ff335e0822d3e07b",
+    "/assets/pokemon.png": "b1c73a81e02018968214f9aa4569012f7c5ce64c",
+    "/assets/poketitle.png": "b0c08da0d3f23f3f158ec352bff840161da5d1bd",
+    "/assets/utils/types.ts": "323d88ef1549847974c2a51146c91d0c557b14a5",
+    "/assets/utils/utils.js": "d003fcfa301dcca731f48279c769f72f0f018f2e",
+    "/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "/index.html": "2c7d9e630d5723c64e02e866d6e3677b34108c37",
+    "/main.94b59bafef8a2fa8.js": "f5d725b65fd155708569cc92b4a82fb6ac353cef",
+    "/manifest.webmanifest": "c31cb686f934106a2c22054f498ee34e090bd93d",
+    "/polyfills.d5482168a709a704.js": "1bf15f4e4b899bdf0f645b82233a92cf08f31de5",
+    "/runtime.599414135deb3fc9.js": "989e6c6651bc23f25686def830ed4c0ab8bfee21",
+    "/scripts.d4c14b20253070bf.js": "665075e03a2d643356e37a36c6f1f4df2b5d4410",
+    "/styles.d93620bb15f25cce.css": "09e8cf5f9c50910b01fb2230b222e8993f6a04ce"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
